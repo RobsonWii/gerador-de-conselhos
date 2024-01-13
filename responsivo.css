@@ -1,0 +1,10 @@
+@media(max-width: 768px){
+
+.cartao{
+    width: 80%;
+}
+
+.cartao .conselho-numero{
+    text-align: center;
+}
+}
